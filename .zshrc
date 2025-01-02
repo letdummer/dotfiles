@@ -126,3 +126,7 @@ defaults write com.apple.finder AppleShowAllFiles YES
 export PATH="$PATH:/Users/ldummer-/.local/bin"
 
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+#starship theme . trying to edit bash
+eval "$(starship init zsh)"
+

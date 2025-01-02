@@ -1,0 +1,9 @@
+alias ccc='clear'
+alias cc42='cc -Wall -Wextra -Werror'
+
+alias gs='git status'
+alias ga='git add'
+alias gp='git push'
+alias ll='ls -lAh'  
+alias ..='cd ..'   
+alias la='ls -la'
