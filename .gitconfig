@@ -1,0 +1,15 @@
+[user]
+  name   = Leticia Dummer
+  email  = ldummer-@student.42porto.com
+[github]
+  user   = letdummer
+[alias]
+  a      = add
+  cm     = commit -m
+  s      = status
+  p      = push
+  co     = checkout
+  fp     = fetch --prune --all
+  l      = log --oneline --decorate --graph
+[push]
+	autoSetupRemote = true
